@@ -38,8 +38,8 @@
 
 ## ==附加：==
 
-+ 如果文件解压有问题或嫌麻烦，可以运行命令直接从GitHub上获取：
++ 如果文件解压有问题或嫌麻烦，可以运行以下命令直接从GitHub上获取：
 
   ```Github
-  
+  $ git clone https://github.com/MuQingYuan/DaYuHaiTang.git
   ```
