@@ -234,7 +234,7 @@ body{      /*整体背景设置*/
     position: relative;
     margin: 0 auto;
     width: 1000px;
-    height: 50px;
+    height: 70px;
     background-color: rgba(240, 74, 58, 1);
 }
 .container .footer h5{
@@ -242,7 +242,6 @@ body{      /*整体背景设置*/
     top: 10px;
     left: 50%;
     width: 90px;
-    height: 18px;
     text-align: center;
     margin-left: -45px;
 }
@@ -253,6 +252,18 @@ body{      /*整体背景设置*/
     top: 30px;
     left: 50%;
     margin-left: -42.5px;
+}
+.container .footer #myblog{
+    position: absolute;
+    left: 50%;
+    bottom: 8px;
+    width: 90px;
+    margin-left: -42px;
+    font-size: 12px;
+}
+.container .footer #myblog::before{
+    content: 'Hexo | ';
+    font-size: 12px;
 }
 
 
