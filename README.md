@@ -38,7 +38,7 @@
 
 ## ==附加：==
 
-+ 如果文件解压有问题或嫌麻烦，可以运行以下命令直接从GitHub上获取：
++ 部署的网站视频显示有问题(原因是压缩文件中没有video文件夹)或者解压文件有问题，可以运行以下命令直接从GitHub上获取代码：
 
   ```Github
   $ git clone https://github.com/MuQingYuan/DaYuHaiTang.git
